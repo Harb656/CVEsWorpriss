@@ -1,4 +1,4 @@
----
+By SamBugHunteR
 
 ```markdown
 # CVEsWorpriss v3 - WordPress Auto Exploit Framework
