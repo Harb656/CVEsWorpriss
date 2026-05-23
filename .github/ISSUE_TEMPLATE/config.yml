@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📞 GitHub Discussions
+    url: https://github.com/InMyMine7/InMyMine7/discussions
+    about: Ask questions, share ideas, and general discussions about the project
+  - name: 📱 Telegram Support
+    url: https://t.me/InMyMineee
+    about: Get help and support directly on Telegram
+  - name: 💰 Support the Developer
+    url: https://sociabuzz.com/inmymine7/tribe
+    about: Support the development of this project

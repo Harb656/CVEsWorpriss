@@ -1,0 +1,19 @@
+{
+    "TIMEOUT": 10,
+    "UPLOAD_TIMEOUT": 15,
+    "FILES_DIR": "/home/kali/CVEsWorpriss/lib",
+    "REQUIRED_FILES": [
+        "CVEsWorpriss-shell.jpg",
+        "mem.zip"
+    ],
+    "RESULT_DIR": "Result",
+    "SHELLS_FILE": "Shells.txt",
+    "PASSWORDS_FILE": "password_change.txt",
+    "ADMINS_FILE": "wp-admin.txt",
+    "REGISTER_FILE": "wp-register.txt",
+    "UPDATE_URL": "",
+    "SUPPORT_URL": [
+        "https://oki.com"
+    ],
+    "EMAIL": "default@example.com"
+}
